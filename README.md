@@ -1,15 +1,11 @@
 Quick Barcode scanning app with google sheets integration
 
 
-Based from
 
-Android Vision API Samples
+Based on Android Vision API Samples
 ============
 
-These samples demonstrate the vision API for detecting faces and barcodes.
-
-Introduction
-------------
+https://github.com/googlesamples/android-vision
 
 Pre-requisites
 --------------
@@ -20,17 +16,6 @@ Getting Started
 The samples build using Gradle in Android Studio.  There is no special
 configuration required.
 
-Support (Post Release)
--------
-
-For General questions and discussion on StackOverflow:
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android-vision
-
-If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-vision/issues
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub.
 
 License
 -------
